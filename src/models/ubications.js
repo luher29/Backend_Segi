@@ -1,0 +1,6 @@
+/*
+correo
+nombre
+lat
+lng
+*/
